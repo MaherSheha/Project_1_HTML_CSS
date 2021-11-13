@@ -412,7 +412,7 @@ body {
 }
 
 .about .about-content .text {
-  flex-basis: calc(100% + 500px);
+  flex-basis: calc(100% - 500px);
   /* flex: 1;
   padding-left: 200px; */
 }
